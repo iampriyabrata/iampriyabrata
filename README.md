@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampriyabrata" alt="iampriyabrata" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA PROJECTS**
+- 🔭 I’m currently working on **100 JavaScript Projects**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JavaScript**
 
 - ⚡ Fun fact **i think i'm funny..**
 
